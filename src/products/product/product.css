@@ -1,0 +1,8 @@
+#big_book_cover{
+    -fx-pref-width:600px;
+    -fx-pref-height:600px;
+}
+#small_book_cover{
+    -fx-pref-width:150px;
+    -fx-pref-height:209px;
+}

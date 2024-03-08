@@ -1,0 +1,25 @@
+
+#my-button{
+    -fx-text-fill: red;
+}
+.text-color{
+    -fx-text-fill: blue;
+    -fx-font-size: 16pt;
+}
+#big_book_cover{
+    -fx-width-size:600px;
+    -fx-height-size:600px;
+}
+.info-user{
+    -fx-text-fill: #c1565b;
+    -fx-font-size: 14pt;
+}
+.info-home-error{
+    -fx-text-fill: #ff3333;
+    -fx-font-size: 14pt;
+}
+.info-home{
+    -fx-text-fill: #c1565b;
+    -fx-font-size: 14pt;
+}
+
